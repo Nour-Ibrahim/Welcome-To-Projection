@@ -1,0 +1,122 @@
+
+.body{
+    color: #000000;
+    margin :0;
+    font-family: 'cairo',serif;
+}
+.test{
+    width:100%;
+    height:67%;
+    background-color:rgba(78, 73, 73, 0.904);
+    margin-top: 5px;
+
+    position: relative;
+    top: 0px;
+    color:white;
+    opacity: 0.6;
+    padding-top: 200px;
+}
+.home{
+    background-image: url(../photo/can.jpg);
+    height:600px;
+    background-size: 100% 100%;
+    text-align: center;
+}
+.icons{
+    color: yellowgreen;
+}
+.one{
+    float: left;
+    text-align: center;
+    margin-left: 25%;
+    padding-right: 5px;
+    border-right: wheat solid 4px;
+}
+.one h2{
+    margin-right: 10px;
+}
+.one p{
+    margin-right: 10px;
+}
+.two{
+    float: left;
+    text-align: center;
+    margin-left: 5%;
+    border-right: wheat solid 4px;
+    
+}
+.two h2{
+    margin-right: 10px;
+}
+.two p{
+    margin-right: 10px;
+}
+.test button{
+    border-radius: 30px;
+    border: yellowgreen solid 1px;
+    text-align: center;
+    font-size: 16px;
+    padding: 10px;
+    color: rgb(154, 219, 22);
+    counter-reset: yellowgreen;
+
+}
+.three{
+    float: left;
+    text-align: center;
+    margin-left: 5%; 
+}
+.three h2{
+    margin-right: 10px;
+}
+.three p{
+    margin-right: 10px;
+}
+.home button{
+    margin-top: 20px;
+    border-radius: 30px;
+    border: rgb(13, 121, 163) solid 1px;
+    text-align: center;
+    font-size: 16px;
+    padding: 10px;
+    counter-reset: rgb(13, 121, 163);
+    color: rgb(13, 121, 163);
+
+}
+.pho{
+    margin-top: 30px;
+}
+.big{
+    background-color: rgb(12, 221, 151);
+    color: white;
+    width: 100%;
+    height: 800px;
+}
+.div{
+    border: white solid 1px ;
+    width: 90%;
+    height: 60px;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.big h3{
+    text-align: left;
+    margin-left: 5%;
+}
+.big h4{
+    text-align: left;
+    margin-left: 1%;
+}
+.di{
+    border: white solid 1px ;
+    width: 90%;
+    height: 180px;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.big button{
+    margin-top: 30px;
+    border: wheat solid 1px;
+    color: wheat;
+    background-color:  rgb(12, 221, 151);
+}
